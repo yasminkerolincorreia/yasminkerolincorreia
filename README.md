@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Seja Bem-Vindo ao meu perfil 👋
+Sou a Yasmin Kerolin, aluna do Ensino Médio da Escola Estadual Engenheiro Isac Pereira Garcez de Dracena. 💔
 
-<!--
-**yasminkerolincorreia/yasminkerolincorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudanto nas aulas de Tecnologia pelo [Alura](https://www.alura.com.br);
+- Estou tentando aprender a programação atráves das plataformas [Scratch](https://scratch.mit.edu/) e [Javascript](https://editor.p5js.org/);
+- Utilizo este espaço para compartilhar alguns de meus projetos;
 
-Here are some ideas to get you started:
+## Você pode entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001086012495sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/rmoEN5T37mAAAAAd/glimmer.gif)
+
